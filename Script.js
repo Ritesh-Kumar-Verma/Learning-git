@@ -1,3 +1,3 @@
 console.log("Hellooo")
 console.log("byee")
-console.log("gand mro")
+console.log("chup sali")
